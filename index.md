@@ -1,34 +1,8 @@
 
-<!DOCTYPE html>
-<html>
-
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="John.github.com : Blog? Maybe." />
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Популярная игра 2048</title>
-  </head>
-
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/john">View on GitHub</a>
-
-          <h1 id="project_title">2048</h1>
-          <h2 id="project_tagline">Больше, чем просто игра!</h2>
-
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>Когда незамысловая идея игры охватывает мир.</h3>
+  
+ 
+<p>Когда незамысловатая идея игры охватывает мир.</p>
 
 <p>Как известно, математическую игру «2048», создал итальянский разработчик Gabriele Cirulli.
 
@@ -45,7 +19,9 @@
 <img src="https://habrastorage.org/getpro/habr/post_images/1c2/138/a4f/1c2138a4fe7d931d4ab93f01f3c6d432.png" alt="image">
 
 <h3>Реализация основной механики игры:</h3>
-```java
+
+``` java
+
 package com.John.a2048;
 
 import android.annotation.SuppressLint;
@@ -223,6 +199,7 @@ public class MainActivity extends Activity {
         }
     }
 }
+
 ```
 
 <p>Исходный код: https://github.com/drJohnForever/John.github.io</p>
