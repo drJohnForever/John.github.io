@@ -30,9 +30,9 @@
       <section id="main_content" class="inner">
         <h3>Когда незамысловая идея игры охватывает мир.</h3>
 
-<p>Как известно, математическую игру «2048», создал итальянский разработчик Gabriele Cirulli. 
+<p>Как известно, математическую игру «2048», создал итальянский разработчик Gabriele Cirulli.
 
-Игровое поле состоит из сетки 4х4. 
+Игровое поле состоит из сетки 4х4.
 Игра начинается. На сцене две плитки с номиналом 2.
 Передвигая, нужно сложить плитки одного «номинала».
 Движение возможно в 4 стороны.
@@ -45,8 +45,8 @@
 <img src="https://habrastorage.org/getpro/habr/post_images/1c2/138/a4f/1c2138a4fe7d931d4ab93f01f3c6d432.png" alt="image">
 
 <h3>Реализация основной механики игры:</h3>
-
-<pre><code class="language-java" data-lang="java">package com.uberspot.a2048;
+```java
+package com.John.a2048;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -223,11 +223,11 @@ public class MainActivity extends Activity {
         }
     }
 }
-</code></pre>
+```
 
 <p>Исходный код: https://github.com/drJohnForever/John.github.io</p>
 
-    
+
 
   </body>
 </html>
