@@ -20,7 +20,7 @@
 
 <h3>Реализация основной механики игры:</h3>
 
-<pre>
+<pre><code>
 package com.uberspot.a2048;
 
 import android.annotation.SuppressLint;
@@ -199,8 +199,8 @@ public class MainActivity extends Activity {
     }
 }
 
-</pre></div>
+ </code></pre>
 
-<p> <href a = "https://github.com/drJohnForever/drJohnforever.github.io" >Исходный код </href></p>
+<p> <a href="https://github.com/drJohnForever/drJohnforever.github.io" >Исходный код </a></p>
 
   </body>
