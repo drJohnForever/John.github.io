@@ -201,6 +201,6 @@ public class MainActivity extends Activity {
 
 </pre></div>
 
-<p>Исходный код: https://github.com/drJohnForever/John.github.io</p>
+<p> <href a = "https://github.com/drJohnForever/drJohnforever.github.io" >Исходный код </href></p>
 
   </body>
