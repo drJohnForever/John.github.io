@@ -1,5 +1,5 @@
 
-  <body>
+<body>
   
  
 <p>Когда незамысловатая идея игры охватывает мир.</p>
@@ -201,9 +201,6 @@ public class MainActivity extends Activity {
 
 </pre></div>
 
-
 <p>Исходный код: https://github.com/drJohnForever/John.github.io</p>
-
-
 
   </body>
