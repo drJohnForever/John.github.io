@@ -8,7 +8,7 @@
 
 </p>
 
-<img src="https://sun9-4.userapi.com/c855532/v855532133/11d315/_J7lRCE3AqA.jpg" alt="image">
+<img src="https://b.radikal.ru/b31/1911/a0/0f17990ab58e.jpg" alt="image">
 
 <p>Цель игры — собрать плитку с «номиналом» 2048.</p>
 
